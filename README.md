@@ -84,3 +84,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 [v0.1.0](https://github.com/jeff-french/grunt-ripple-emulator/releases/tag/v0.1.0) - Initial release
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jeff-french/grunt-ripple-emulator/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
